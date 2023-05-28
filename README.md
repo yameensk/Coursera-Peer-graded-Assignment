@@ -1,0 +1,1 @@
+homework Topic: To accomplish this homework, I was given an empty Jupyter notebook, which I launched during the lecture. I had to incorporate both markdown and code cells. I was able to choose the proper syntax for my markdown without using the Markdown cheat sheet. Instructions for submission:
